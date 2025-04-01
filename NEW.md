@@ -1,0 +1,1 @@
+Hello, it's easier to use VScode to create new files instead of code creating them
