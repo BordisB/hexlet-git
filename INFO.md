@@ -1,2 +1,3 @@
 git is awesome
-new lineexperiment with amend
+new line
+experiment with amend
